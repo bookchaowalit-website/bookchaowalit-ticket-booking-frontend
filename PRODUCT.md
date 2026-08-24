@@ -4,6 +4,11 @@
 **Generated:** 2026-08-11 (bulk Book Dev closeout)  
 **Status:** starter / portfolio boundary
 
+## Current product truth
+
+- This is a local seat-map booking demo with name entry and browser-stored booking stubs.
+- It has no event backend, inventory service, payment flow, checkout, or confirmation delivery.
+
 ## Purpose
 
 Portfolio repository under Book Dev. This brief records ownership and the
